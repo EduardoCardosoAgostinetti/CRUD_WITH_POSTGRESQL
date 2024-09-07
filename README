@@ -23,7 +23,7 @@ PostgreSQL instalado e em execução com o banco de dados importado.
 # Navegue até o diretório do projeto
 
 # Instale as dependências:
-npm install node express mysql2
+npm install node express pg
 
 # Inicie o servidor:
 node server.js
